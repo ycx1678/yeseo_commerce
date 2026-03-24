@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+dist
+.DS_Store
+npm-debug.log*
+_figma_source
+_main_source
+_superadmin_source
